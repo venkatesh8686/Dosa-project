@@ -1,4 +1,3 @@
 DOSA
-
-* lite oil
-* dosa floor
+ 
+* karam dosa
